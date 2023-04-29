@@ -1,9 +1,9 @@
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 <h1 align="center">Hi 👋, I'm Pranshav Vikram</h1>
 <h3 align="center">A Full Stack developer who is constantly upgrading his skills.</h3>
+
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshavv&label=Profile%20views&color=0e75b6&style=flat" alt="pranshavv" /> </p>
-
 - 🔭 I’m currently working on **MERN Stack,React**
 
 - 🌱 I’m currently learning **Java,React,Backend Development**

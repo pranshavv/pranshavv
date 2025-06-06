@@ -12,7 +12,7 @@
 
 - 🎓 I’m currently diving deeper into **Cloud Automation (Terraform, AWS)** and fine-tuning **resilient infrastructure pipelines**.
 
-- 💬 Ask me about **Oracle**, **SQL tuning**, **shell scripts**, **CI/CD for data platforms**, or how to debug a pipeline at 2AM.
+- 💬 Ask me about **Oracle database**, **SQL**, **shell scripts**, **CI/CD**, or how to debug a pipeline at 2AM.
 
 - 📨 Reach me at: **pranshavvikram2@gmail.com**
 
